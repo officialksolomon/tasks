@@ -69,3 +69,24 @@ You're about to initialize a Firebase project in this directory:
 [debug] [2022-08-01T09:20:03.586Z] >>> [apiv2][query] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key type=owner
 [debug] [2022-08-01T09:20:04.295Z] <<< [apiv2][status] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key 404
 [debug] [2022-08-01T09:20:04.296Z] <<< [apiv2][body] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest/reference/actions#get-a-repository-public-key"}
+[debug] [2022-08-01T09:22:26.578Z] >>> [apiv2][query] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key type=owner
+[debug] [2022-08-01T09:22:27.182Z] <<< [apiv2][status] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key 401
+[debug] [2022-08-01T09:22:27.183Z] <<< [apiv2][body] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-01T09:22:34.558Z] >>> [apiv2][query] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key type=owner
+[debug] [2022-08-01T09:22:35.171Z] <<< [apiv2][status] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key 401
+[debug] [2022-08-01T09:22:35.172Z] <<< [apiv2][body] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-01T09:22:44.829Z] >>> [apiv2][query] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key type=owner
+[debug] [2022-08-01T09:22:45.446Z] <<< [apiv2][status] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key 401
+[debug] [2022-08-01T09:22:45.446Z] <<< [apiv2][body] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-01T09:22:53.241Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-08-01T09:22:53.883Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-08-01T09:22:53.883Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-01T09:23:13.214Z] >>> [apiv2][query] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key type=owner
+[debug] [2022-08-01T09:23:13.825Z] <<< [apiv2][status] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key 401
+[debug] [2022-08-01T09:23:13.828Z] <<< [apiv2][body] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-01T09:23:14.653Z] >>> [apiv2][query] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key type=owner
+[debug] [2022-08-01T09:23:14.812Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-08-01T09:23:15.330Z] <<< [apiv2][status] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key 401
+[debug] [2022-08-01T09:23:15.334Z] <<< [apiv2][body] GET https://api.github.com/repos/officialksolomon/tasks/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-01T09:23:15.461Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-08-01T09:23:15.461Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
